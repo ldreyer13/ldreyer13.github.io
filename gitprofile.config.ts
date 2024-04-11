@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ldreyer13.github.io/pdf/LdreyerCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'CPR', 'First Aid', 'Medication Technician'
